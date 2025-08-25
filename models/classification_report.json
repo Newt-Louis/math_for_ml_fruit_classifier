@@ -1,0 +1,1263 @@
+{
+    "Apple 10": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Apple 11": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 142.0
+    },
+    "Apple 12": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 154.0
+    },
+    "Apple 13": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 235.0
+    },
+    "Apple 14": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 154.0
+    },
+    "Apple 17": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 201.0
+    },
+    "Apple 18": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 160.0
+    },
+    "Apple 19": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 241.0
+    },
+    "Apple 5": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 146.0
+    },
+    "Apple 6": {
+        "precision": 0.9631901840490797,
+        "recall": 1.0,
+        "f1-score": 0.98125,
+        "support": 157.0
+    },
+    "Apple 7": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 229.0
+    },
+    "Apple 8": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 228.0
+    },
+    "Apple 9": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Apple Braeburn 1": {
+        "precision": 0.9704142011834319,
+        "recall": 1.0,
+        "f1-score": 0.984984984984985,
+        "support": 164.0
+    },
+    "Apple Core 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 78.0
+    },
+    "Apple Crimson Snow 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 148.0
+    },
+    "Apple Golden 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 160.0
+    },
+    "Apple Golden 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Apple Golden 3": {
+        "precision": 0.9470588235294117,
+        "recall": 1.0,
+        "f1-score": 0.972809667673716,
+        "support": 161.0
+    },
+    "Apple Granny Smith 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Apple Pink Lady 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 152.0
+    },
+    "Apple Red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Apple Red 2": {
+        "precision": 1.0,
+        "recall": 0.9695121951219512,
+        "f1-score": 0.9845201238390093,
+        "support": 164.0
+    },
+    "Apple Red 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 144.0
+    },
+    "Apple Red Delicious 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Apple Red Yellow 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Apple Red Yellow 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 219.0
+    },
+    "Apple Rotten 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 162.0
+    },
+    "Apple hit 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 234.0
+    },
+    "Apple worm 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Apricot 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Avocado 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 143.0
+    },
+    "Avocado Black 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Avocado Green 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Avocado ripe 1": {
+        "precision": 0.9940119760479041,
+        "recall": 1.0,
+        "f1-score": 0.996996996996997,
+        "support": 166.0
+    },
+    "Banana 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Banana 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 77.0
+    },
+    "Banana 4": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 84.0
+    },
+    "Banana Lady Finger 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 152.0
+    },
+    "Banana Red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Beans 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 77.0
+    },
+    "Beetroot 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+    },
+    "Blackberrie 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+    },
+    "Blackberrie 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 75.0
+    },
+    "Blackberrie half rippen 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+    },
+    "Blackberrie not rippen 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 225.0
+    },
+    "Blueberry 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 154.0
+    },
+    "Cabbage red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 49.0
+    },
+    "Cabbage white 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 47.0
+    },
+    "Cactus fruit 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Cactus fruit green 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Cactus fruit red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 237.0
+    },
+    "Caju seed 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 75.0
+    },
+    "Cantaloupe 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Cantaloupe 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Carambula 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Carrot 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 50.0
+    },
+    "Cauliflower 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 234.0
+    },
+    "Cherimoya 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 320.0
+    },
+    "Cherry 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Cherry 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 246.0
+    },
+    "Cherry 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Cherry 4": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Cherry 5": {
+        "precision": 0.9956331877729258,
+        "recall": 1.0,
+        "f1-score": 0.9978118161925602,
+        "support": 228.0
+    },
+    "Cherry Rainier 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 246.0
+    },
+    "Cherry Rainier 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Cherry Rainier 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 228.0
+    },
+    "Cherry Sour 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+    },
+    "Cherry Wax Black 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Cherry Wax Red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Cherry Wax Red 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+    },
+    "Cherry Wax Red 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+    },
+    "Cherry Wax Yellow 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Cherry Wax not ripen 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 225.0
+    },
+    "Cherry Wax not ripen 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 76.0
+    },
+    "Chestnut 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 153.0
+    },
+    "Clementine 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Cocos 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Corn 1": {
+        "precision": 1.0,
+        "recall": 0.6933333333333334,
+        "f1-score": 0.8188976377952756,
+        "support": 150.0
+    },
+    "Corn Husk 1": {
+        "precision": 1.0,
+        "recall": 0.9025974025974026,
+        "f1-score": 0.9488054607508533,
+        "support": 154.0
+    },
+    "Cucumber 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 50.0
+    },
+    "Cucumber 10": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 240.0
+    },
+    "Cucumber 11": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 78.0
+    },
+    "Cucumber 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 81.0
+    },
+    "Cucumber 4": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 76.0
+    },
+    "Cucumber 5": {
+        "precision": 0.9957446808510638,
+        "recall": 1.0,
+        "f1-score": 0.997867803837953,
+        "support": 234.0
+    },
+    "Cucumber 7": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 156.0
+    },
+    "Cucumber 9": {
+        "precision": 0.9935483870967742,
+        "recall": 1.0,
+        "f1-score": 0.9967637540453075,
+        "support": 154.0
+    },
+    "Cucumber Ripe 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 130.0
+    },
+    "Cucumber Ripe 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 156.0
+    },
+    "Dates 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Eggplant 1": {
+        "precision": 1.0,
+        "recall": 0.9807692307692307,
+        "f1-score": 0.9902912621359223,
+        "support": 156.0
+    },
+    "Eggplant long 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 80.0
+    },
+    "Fig 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 234.0
+    },
+    "Ginger Root 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 99.0
+    },
+    "Gooseberry 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 154.0
+    },
+    "Granadilla 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Grape Blue 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 328.0
+    },
+    "Grape Pink 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Grape White 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Grape White 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Grape White 3": {
+        "precision": 0.9534883720930233,
+        "recall": 1.0,
+        "f1-score": 0.9761904761904762,
+        "support": 164.0
+    },
+    "Grape White 4": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 158.0
+    },
+    "Grapefruit Pink 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Grapefruit White 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Guava 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Hazelnut 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 157.0
+    },
+    "Huckleberry 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Kaki 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Kiwi 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 156.0
+    },
+    "Kohlrabi 1": {
+        "precision": 0.9874213836477987,
+        "recall": 1.0,
+        "f1-score": 0.9936708860759493,
+        "support": 157.0
+    },
+    "Kumquats 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Lemon 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Lemon Meyer 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Limes 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Lychee 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Mandarine 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Mango 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Mango Red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 142.0
+    },
+    "Mangostan 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 102.0
+    },
+    "Maracuja 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Melon Piel de Sapo 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 246.0
+    },
+    "Mulberry 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Nectarine 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Nectarine Flat 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 160.0
+    },
+    "Nectarine Flat 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 153.0
+    },
+    "Nut 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 80.0
+    },
+    "Nut 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 79.0
+    },
+    "Nut 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 79.0
+    },
+    "Nut 4": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 79.0
+    },
+    "Nut 5": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 80.0
+    },
+    "Nut Forest 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 218.0
+    },
+    "Nut Pecan 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 178.0
+    },
+    "Onion 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 255.0
+    },
+    "Onion Red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+    },
+    "Onion Red Peeled 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 155.0
+    },
+    "Onion White 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 146.0
+    },
+    "Orange 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 160.0
+    },
+    "Papaya 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Passion Fruit 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Peach 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Peach 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 246.0
+    },
+    "Peach Flat 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Pear 1": {
+        "precision": 1.0,
+        "recall": 0.9451219512195121,
+        "f1-score": 0.9717868338557993,
+        "support": 164.0
+    },
+    "Pear 2": {
+        "precision": 1.0,
+        "recall": 0.9396551724137931,
+        "f1-score": 0.9688888888888889,
+        "support": 232.0
+    },
+    "Pear 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 72.0
+    },
+    "Pear Abate 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Pear Forelle 1": {
+        "precision": 0.9435483870967742,
+        "recall": 1.0,
+        "f1-score": 0.970954356846473,
+        "support": 234.0
+    },
+    "Pear Kaiser 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 102.0
+    },
+    "Pear Monster 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Pear Red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 222.0
+    },
+    "Pear Stone 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 237.0
+    },
+    "Pear Williams 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Pepino 1": {
+        "precision": 1.0,
+        "recall": 0.9156626506024096,
+        "f1-score": 0.9559748427672956,
+        "support": 166.0
+    },
+    "Pepper Green 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 148.0
+    },
+    "Pepper Orange 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 234.0
+    },
+    "Pepper Red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 222.0
+    },
+    "Pepper Yellow 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 222.0
+    },
+    "Physalis 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Physalis with Husk 1": {
+        "precision": 0.780952380952381,
+        "recall": 1.0,
+        "f1-score": 0.8770053475935828,
+        "support": 164.0
+    },
+    "Pineapple 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Pineapple Mini 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 163.0
+    },
+    "Pistachio 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Pitahaya Red 1": {
+        "precision": 0.9940119760479041,
+        "recall": 1.0,
+        "f1-score": 0.996996996996997,
+        "support": 166.0
+    },
+    "Plum 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 151.0
+    },
+    "Plum 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 142.0
+    },
+    "Plum 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 304.0
+    },
+    "Pomegranate 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Pomelo Sweetie 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 153.0
+    },
+    "Potato Red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+    },
+    "Potato Red Washed 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 151.0
+    },
+    "Potato Sweet 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+    },
+    "Potato White 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+    },
+    "Quince 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Quince 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 240.0
+    },
+    "Quince 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 242.0
+    },
+    "Quince 4": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 249.0
+    },
+    "Rambutan 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Raspberry 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Redcurrant 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Salak 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 162.0
+    },
+    "Strawberry 1": {
+        "precision": 0.9939393939393939,
+        "recall": 1.0,
+        "f1-score": 0.9969604863221885,
+        "support": 164.0
+    },
+    "Strawberry Wedge 1": {
+        "precision": 1.0,
+        "recall": 0.991869918699187,
+        "f1-score": 0.9959183673469387,
+        "support": 246.0
+    },
+    "Tamarillo 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Tangelo 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 166.0
+    },
+    "Tomato 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 246.0
+    },
+    "Tomato 10": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 228.0
+    },
+    "Tomato 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 225.0
+    },
+    "Tomato 3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 246.0
+    },
+    "Tomato 4": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 160.0
+    },
+    "Tomato 5": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 222.0
+    },
+    "Tomato 7": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 231.0
+    },
+    "Tomato 8": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 239.0
+    },
+    "Tomato 9": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 239.0
+    },
+    "Tomato Cherry Maroon 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 100.0
+    },
+    "Tomato Cherry Orange 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 100.0
+    },
+    "Tomato Cherry Red 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 164.0
+    },
+    "Tomato Cherry Red 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 100.0
+    },
+    "Tomato Cherry Yellow 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 100.0
+    },
+    "Tomato Heart 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 228.0
+    },
+    "Tomato Maroon 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 127.0
+    },
+    "Tomato Maroon 2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 147.0
+    },
+    "Tomato Yellow 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 153.0
+    },
+    "Tomato not Ripen 1": {
+        "precision": 0.9294117647058824,
+        "recall": 1.0,
+        "f1-score": 0.9634146341463414,
+        "support": 158.0
+    },
+    "Walnut 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 249.0
+    },
+    "Watermelon 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 157.0
+    },
+    "Zucchini 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 80.0
+    },
+    "Zucchini dark 1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 80.0
+    },
+    "accuracy": 0.9969247415928699,
+    "macro avg": {
+        "precision": 0.9973191110529508,
+        "recall": 0.9968198166094079,
+        "f1-score": 0.9968209693523244,
+        "support": 35119.0
+    },
+    "weighted avg": {
+        "precision": 0.997294603804567,
+        "recall": 0.9969247415928699,
+        "f1-score": 0.9968768515642966,
+        "support": 35119.0
+    }
+}

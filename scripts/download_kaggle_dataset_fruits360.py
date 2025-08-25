@@ -3,7 +3,6 @@ import subprocess
 import sys
 
 def download_dataset():
-    # Định nghĩa đường dẫn lưu dữ liệu trong dự án của bạn (giải quyết vấn đề tên folder có ký tự tiếng Việt)
     script_dir = os.path.dirname(__file__)
     DATA_PATH = os.path.abspath(os.path.join(script_dir, '..', 'data', 'raw'))
     # Kiểm tra tồn tại trước khi thực hiện tải
