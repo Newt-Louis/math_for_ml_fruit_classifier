@@ -14,6 +14,7 @@ MODEL_DIR = BASE / "models"
 BEST_MODEL_PATH = MODEL_DIR / "fruit_classifier_best.pt"
 HISTORY_PATH = MODEL_DIR / "history.json"
 LABELS_PATH = MODEL_DIR / "labels.json"
+REPORT_PATH = MODEL_DIR / "classification_report.json"
 TEST_DIR = BASE / "data" / "raw" / "fruits-360_100x100" / "fruits-360" / "Test"
 
 # -------- Load Data and Model --------
@@ -136,9 +137,50 @@ def show_prediction_examples(num_examples=10):
     plt.tight_layout()
     plt.show()
 
+# -------- 4. Vẽ biểu đồ từ Classification Report --------
+def plot_classification_report(report_path, top_n=15, lowest=False):
+    with open(report_path, 'r') as f:
+        report = json.load(f)
+    class_metrics = {k: v for k, v in report.items() if isinstance(v, dict)}
+    sorted_classes = sorted(class_metrics.items(), key=lambda item: item[1]['f1-score'])
+    if lowest:
+        selected_classes = sorted_classes[:top_n]
+        title = f'Top {top_n} Lớp có hiệu suất thấp nhất (dựa trên F1-Score)'
+    else:
+        selected_classes = sorted_classes[-top_n:]
+        title = f'Top {top_n} Lớp có hiệu suất cao nhất (dựa trên F1-Score)'
+    class_names = [item[0] for item in selected_classes]
+    precision = [item[1]['precision'] for item in selected_classes]
+    recall = [item[1]['recall'] for item in selected_classes]
+    f1_scores = [item[1]['f1-score'] for item in selected_classes]
+    x = np.arange(len(class_names))
+    width = 0.25
+    fig, ax = plt.subplots(figsize=(15, 8))
+    rects1 = ax.bar(x - width, precision, width, label='Precision', color='cornflowerblue')
+    rects2 = ax.bar(x, recall, width, label='Recall', color='sandybrown')
+    rects3 = ax.bar(x + width, f1_scores, width, label='F1-Score', color='mediumseagreen')
+    ax.set_ylabel('Điểm (Score)', fontsize=12)
+    ax.set_title(title, fontsize=16, pad=20)
+    ax.set_xticks(x)
+    ax.set_xticklabels(class_names, rotation=45, ha="right")
+    ax.legend(fontsize=12)
+    ax.grid(axis='y', linestyle='--', alpha=0.7)
+    ax.bar_label(rects1, padding=3, fmt='%.2f', fontsize=8)
+    ax.bar_label(rects2, padding=3, fmt='%.2f', fontsize=8)
+    ax.bar_label(rects3, padding=3, fmt='%.2f', fontsize=8)
+    ax.set_ylim(0, 1.1)
+    fig.tight_layout()
+    plt.show()
 
 # -------- Main Execution --------
 if __name__ == "__main__":
     plot_history(history)
     generate_confusion_matrix()
     show_prediction_examples()
+
+    print("\n📈 Đang vẽ biểu đồ từ Classification Report...")
+    # Hiển thị 15 lớp có hiệu suất TỆ nhất để phân tích lỗi
+    plot_classification_report(REPORT_PATH, top_n=15, lowest=True)
+
+    # Hiển thị 15 lớp có hiệu suất TỐT nhất để báo cáo
+    plot_classification_report(REPORT_PATH, top_n=15, lowest=False)
