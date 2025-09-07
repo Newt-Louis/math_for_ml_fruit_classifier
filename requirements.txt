@@ -1,0 +1,23 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+# Web framework & server
+fastapi~=0.116.1
+uvicorn[standard]~=0.35.0
+python-multipart~=0.0.20
+pydantic-settings~=2.10.1
+pydantic~=2.11.7
+python-dotenv~=1.1.1
+pillow~=11.3.0
+
+# Machine Learning & Data
+torch
+torchvision
+numpy~=2.2.6
+scikit-learn~=1.7.1
+pillow~=11.3.0
+
+# Data Visualization & Utilities
+matplotlib~=3.10.5
+seaborn~=0.13.2
+tqdm~=4.67.1
+kaggle~=1.7.4.5
+kagglehub~=0.3.12
